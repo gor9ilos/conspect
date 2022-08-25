@@ -1,0 +1,15 @@
+D:\practics\Exampels\Ex004\bin\Debug\net6.0\Ex004.exe
+D:\practics\Exampels\Ex004\bin\Debug\net6.0\Ex004.deps.json
+D:\practics\Exampels\Ex004\bin\Debug\net6.0\Ex004.runtimeconfig.json
+D:\practics\Exampels\Ex004\bin\Debug\net6.0\Ex004.dll
+D:\practics\Exampels\Ex004\bin\Debug\net6.0\Ex004.pdb
+D:\practics\Exampels\Ex004\obj\Debug\net6.0\Ex004.csproj.AssemblyReference.cache
+D:\practics\Exampels\Ex004\obj\Debug\net6.0\Ex004.GeneratedMSBuildEditorConfig.editorconfig
+D:\practics\Exampels\Ex004\obj\Debug\net6.0\Ex004.AssemblyInfoInputs.cache
+D:\practics\Exampels\Ex004\obj\Debug\net6.0\Ex004.AssemblyInfo.cs
+D:\practics\Exampels\Ex004\obj\Debug\net6.0\Ex004.csproj.CoreCompileInputs.cache
+D:\practics\Exampels\Ex004\obj\Debug\net6.0\Ex004.dll
+D:\practics\Exampels\Ex004\obj\Debug\net6.0\refint\Ex004.dll
+D:\practics\Exampels\Ex004\obj\Debug\net6.0\Ex004.pdb
+D:\practics\Exampels\Ex004\obj\Debug\net6.0\Ex004.genruntimeconfig.cache
+D:\practics\Exampels\Ex004\obj\Debug\net6.0\ref\Ex004.dll
